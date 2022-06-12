@@ -12,10 +12,12 @@
 
 .container-left {
     display: inline-block;
+    cursor: pointer;
 
 }
 
 .container-right {
     display: inline-block;
+    cursor: pointer;
 
 }
